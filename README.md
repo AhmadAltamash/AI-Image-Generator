@@ -71,7 +71,6 @@ Contributions are welcome! Feel free to submit a pull request or raise an issue 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 
-Developed with ❤️ by Altamash Ahmad
-    ```bash
+### Developed with ❤️ by Altamash Ahmad
+
     Let me know if you’d like to adjust anything or add specific instructions for API keys or configurations!
-    ```
